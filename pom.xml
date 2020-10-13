@@ -48,7 +48,7 @@
 		<slf4j.version>1.7.19</slf4j.version>
 		<flink.version>1.10.0</flink.version>
 		<scala.binary.version>2.12</scala.binary.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<assertj.version>3.11.1</assertj.version>
 	</properties>
 
